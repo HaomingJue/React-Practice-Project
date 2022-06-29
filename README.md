@@ -1,5 +1,4 @@
-# Markdown project
-### A simple markdown project to transfer text to markdown style
+# React Practice Projects
+### A bunch of react projects for practice
 \
-\
-:point_right: *Learn markdown and react at the same time*  :sunglasses:
+*Coding React is a treat, isn't it? Enjoy and have fun!*  :sunglasses:
